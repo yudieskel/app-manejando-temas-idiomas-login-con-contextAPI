@@ -1,6 +1,6 @@
 # app-manejando-temas-idiomas-login-con-contextAPI  
 
-Estructura de componentes:  
+### Estructura de componentes:  
 
 MyPageContext 
 
@@ -19,7 +19,7 @@ Sesión: login/logout
 
 
   
-Estructura contex: 
+### Estructura context: 
 
 	ThemeContext 
 
